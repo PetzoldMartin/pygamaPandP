@@ -9,6 +9,7 @@ def print_hi(name):
 if __name__ == '__main__':
     print_hi('PyCharm')
     pygame.init()
+    pygame.display.set_caption('\u2764\uFE0F Pinguin and Panda \u2764\uFE0F')
     screen = pygame.display.set_mode([600, 600])
     clock = pygame.time.Clock()
 
