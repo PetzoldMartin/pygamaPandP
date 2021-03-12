@@ -1,8 +1,8 @@
-pygamaPandP
+pygamaPandP<br/>
 
-A Game with Pinguin and Panda 
+A Game with Pinguin and Panda<br/>
 
--Goals:
-    - alternative input
-    - Python learning
-    - human controls Game, and not Other way
+-Goals:<br/>
+    - alternative input<br/>
+    - Python learning<br/>
+    - human controls Game, and not Other way<br/>
